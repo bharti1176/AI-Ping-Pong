@@ -21,3 +21,14 @@
 {
     margin-bottom:1%;
 }
+.modal-body
+{
+    text-align: left;
+}
+
+h4
+{
+    background-color: white;
+    line-height: 2;
+    margin:0px;
+}
